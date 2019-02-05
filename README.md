@@ -4,11 +4,11 @@ Linux Server Configuration
 ## Project Description
 Take a baseline installation of a Linux distribution on a virtual machine and prepare it to host your web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers. 
 
-- IP address: 35.159.0.214
+- IP address: 18.236.139.30
 
 - Accessible SSH port: 2200 
 
-- Application URL: http://ec2-35-159-0-214.eu-central-1.compute.amazonaws.com/
+- Application URL: http://ec2-18-236-139-30.us-west-2.compute.amazonaws.com/
 
 ## Walkthrough
 
