@@ -4,11 +4,11 @@ Linux Server Configuration
 ## Project Description
 Take a baseline installation of a Linux distribution on a virtual machine and prepare it to host your web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers. 
 
-- IP address: 18.236.139.30
+- IP address: 3.16.70.81
 
 - Accessible SSH port: 2200 
 
-- Application URL: http://ec2-18-236-139-30.us-west-2.compute.amazonaws.com/
+- Application URL: http://ec2-3-16-70-81.us-east-2.compute.amazonaws.com
 
 ## Walkthrough
 
@@ -33,6 +33,7 @@ Take a baseline installation of a Linux distribution on a virtual machine and pr
 ## reference
 https://github.com/Heba-ahmad/FSND-P5-walkthrough/blob/master/Linux-Server-Configuration-p5-walkthrough.pdf
 https://github.com/mulligan121/Udacity-Linux-Configuration
+https://github.com/mulligan121/Udacity-Linux-Configuration/blob/master/README.md
 
 
 
